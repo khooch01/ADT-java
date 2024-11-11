@@ -324,9 +324,7 @@ This project demonstrates the implementation and manipulation of three fundament
 
 **Output**:
 
-plaintext
 
-Copy code
 
 `List Contents:
 10 30
@@ -341,9 +339,6 @@ List Size: 2`
 
 **Output**:
 
-plaintext
-
-Copy code
 
 `Stack Top Element: 3
 Stack Top after Pop: 2
@@ -357,10 +352,6 @@ Stack Size: 2`
 -   Dequeue an element.
 
 **Output**:
-
-plaintext
-
-Copy code
 
 `Queue Front Element: 100
 Queue Front after Dequeue: 200
